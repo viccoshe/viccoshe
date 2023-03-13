@@ -30,8 +30,6 @@ Skills: HTML, CSS, JavaScript / TypeScript / React / Redux / Git / Firebase / Bo
 
 🍀[Photo Editor One-Page](https://github.com/viccoshe/photo-app-css-html) | [tap to deploy](https://viccoshe.github.io/photo-app-css-html/)  
   
-
-🍀[Photo Editor One-Page](https://github.com/viccoshe/photo-app-css-html) | [tap to deploy](https://viccoshe.github.io/photo-app-css-html/)  
   
 
 <br/>  
