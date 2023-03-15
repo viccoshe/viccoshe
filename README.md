@@ -18,7 +18,7 @@ Skills: HTML, CSS, JavaScript / TypeScript / React / Redux / Git / Firebase / Bo
 #### 🍀[Super Simple ToDo App](https://github.com/viccoshe/TodoList--Tabs) | [tap to deploy](https://viccoshe.github.io/TodoList--Tabs/)  
   
 
-🍀[Finance App](https://github.com/viccoshe/budget-app)  
+🍀[Finance App](https://github.com/viccoshe/budget-app)  | [tap to deploy](https://budget-app-4a0ed.web.app/)
   
 
 #### HTML/CSS-only
