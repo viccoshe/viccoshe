@@ -20,7 +20,7 @@ Skills: HTML, CSS, JavaScript / TypeScript / React / Redux / Git / Firebase / Bo
 
 🍀[Finance App](https://github.com/viccoshe/budget-app)  | [tap to deploy](https://budget-app-4a0ed.web.app/)
 
-🍀[Simple Firebase Chat]  | [tap to deploy](https://viccoshe.github.io/chat-app/)
+🍀[Simple Firebase Chat](https://github.com/viccoshe/chat-app)  | [tap to deploy] (https://viccoshe.github.io/chat-app/)
   
 
 #### HTML/CSS-only
