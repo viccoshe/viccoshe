@@ -21,7 +21,7 @@ I am an enthusiastic person with great desire to learn new undertake new challen
   
 
 #### HTML/CSS/JS-only
-🍀[One-page Website with Parallax "3D-Lense" Effect](https://github.com/viccoshe/parallax-effects-one-page) | [TAP TO DEPLOY](https://viccoshe.github.io/parallax-effects-one-page/)  
+🍀[One-page Website with Parallax "3D-Lense" Effect](https://github.com/viccoshe/parallax-effects-one-page) | [CLICK TO DEPLOY](https://viccoshe.github.io/parallax-effects-one-page/)  
   
 
 <!-- 🍀[Organic Food One-Page](https://github.com/viccoshe/Exam-project-HTML-CSS) | [tap to deploy](https://viccoshe.github.io/Exam-project-HTML-CSS/)  
