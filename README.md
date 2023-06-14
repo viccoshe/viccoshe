@@ -12,10 +12,10 @@ Skills: HTML, CSS, JavaScript / TypeScript / React / Redux / Git / Firebase / Bo
 🍀[Furniture Store ](https://github.com/viccoshe/Final-Project) (Typescript, React, Firebase) | [tap to deploy](https://wooden-furniture-d32f1.firebaseapp.com/)  
   
 
-🍀[Super Simple ToDo App](https://github.com/viccoshe/TodoList--Tabs) | [tap to deploy](https://viccoshe.github.io/TodoList--Tabs/)  
+<!-- 🍀[Super Simple ToDo App](https://github.com/viccoshe/TodoList--Tabs) | [tap to deploy](https://viccoshe.github.io/TodoList--Tabs/)  
   
 
-🍀[Finance App](https://github.com/viccoshe/budget-app)  | [tap to deploy](https://budget-app-4a0ed.web.app/)
+🍀[Finance App](https://github.com/viccoshe/budget-app)  | [tap to deploy](https://budget-app-4a0ed.web.app/) -->
 
 🍀[Simple Firebase Chat](https://github.com/viccoshe/chat-app)  | [tap to deploy](https://viccoshe.github.io/chat-app/)
   
