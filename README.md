@@ -20,15 +20,15 @@ Skills: HTML, CSS, JavaScript / TypeScript / React / Redux / Git / Firebase / Bo
 🍀[Simple Firebase Chat](https://github.com/viccoshe/chat-app)  | [tap to deploy](https://viccoshe.github.io/chat-app/)
   
 
-#### HTML/CSS-only
-🍀[Studio Landing Page](https://github.com/viccoshe/srudio-template-app-css-html-only) | [tap to deploy](https://viccoshe.github.io/srudio-template-app-css-html-only/)  
+#### HTML/CSS/JS-only
+🍀[One-page Website with Parallax "3D-Lense" Effect]([https://github.com/viccoshe/srudio-template-app-css-html-only](https://github.com/viccoshe/parallax-effects-one-page)) | [tap to deploy]([https://viccoshe.github.io/srudio-template-app-css-html-only/](https://viccoshe.github.io/parallax-effects-one-page/))  
   
 
-🍀[Organic Food One-Page](https://github.com/viccoshe/Exam-project-HTML-CSS) | [tap to deploy](https://viccoshe.github.io/Exam-project-HTML-CSS/)  
+<!-- 🍀[Organic Food One-Page](https://github.com/viccoshe/Exam-project-HTML-CSS) | [tap to deploy](https://viccoshe.github.io/Exam-project-HTML-CSS/)  
   
 
 🍀[Photo Editor One-Page](https://github.com/viccoshe/photo-app-css-html) | [tap to deploy](https://viccoshe.github.io/photo-app-css-html/)  
-  
+   -->
   
 
 <br/>  
