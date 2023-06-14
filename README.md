@@ -9,7 +9,7 @@ I am an enthusiastic person with great desire to learn new undertake new challen
   
 
 ## My Projects
-🍀[Furniture Store ](https://github.com/viccoshe/Final-Project) (Typescript, React, Firebase) | [TAP TO DEPLOY](https://wooden-furniture-d32f1.firebaseapp.com/)  
+🍀[Furniture Store ](https://github.com/viccoshe/Final-Project) (Typescript, React, Firebase) | [CLICK TO DEPLOY](https://wooden-furniture-d32f1.firebaseapp.com/)  
   
 
 <!-- 🍀[Super Simple ToDo App](https://github.com/viccoshe/TodoList--Tabs) | [tap to deploy](https://viccoshe.github.io/TodoList--Tabs/)  
@@ -17,7 +17,7 @@ I am an enthusiastic person with great desire to learn new undertake new challen
 
 🍀[Finance App](https://github.com/viccoshe/budget-app)  | [tap to deploy](https://budget-app-4a0ed.web.app/) -->
 
-🍀[Simple Firebase Chat](https://github.com/viccoshe/chat-app)  | [TAP TO DEPLOY](https://viccoshe.github.io/chat-app/)
+🍀[Simple Firebase Chat](https://github.com/viccoshe/chat-app)  | [CLICK TO DEPLOY](https://viccoshe.github.io/chat-app/)
   
 
 #### HTML/CSS/JS-only
