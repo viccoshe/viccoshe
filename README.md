@@ -14,13 +14,12 @@ I am an enthusiastic person with great desire to learn new undertake new challen
 
 <!-- 🍀[Super Simple ToDo App](https://github.com/viccoshe/TodoList--Tabs) | [tap to deploy](https://viccoshe.github.io/TodoList--Tabs/)  
   
-
+🍀[NETFLIX Clone Website](https://github.com/viccoshe/netflix-clone)
 🍀[Finance App](https://github.com/viccoshe/budget-app)  | [tap to deploy](https://budget-app-4a0ed.web.app/) -->
 
 🍀[Simple Firebase Chat](https://github.com/viccoshe/chat-app)  | [CLICK TO DEPLOY](https://viccoshe.github.io/chat-app/)
   
-
-#### HTML/CSS/JS-only
+#HTML/CSS-only
 🍀[One-page Website with Parallax "3D-Lense" Effect](https://github.com/viccoshe/parallax-effects-one-page) | [CLICK TO DEPLOY](https://viccoshe.github.io/parallax-effects-one-page/)  
   
 
