@@ -10,6 +10,7 @@ I am an enthusiastic person with great desire to learn new undertake new challen
 
 ## My Projects
 🍀[NETFLIX Clone Website](https://github.com/viccoshe/netflix-clone)
+
 🍀[Furniture Store ](https://github.com/viccoshe/Final-Project) (Typescript, React, Firebase) | [CLICK TO DEPLOY](https://wooden-furniture-d32f1.firebaseapp.com/)  
   
 
