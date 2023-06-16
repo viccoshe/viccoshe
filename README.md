@@ -21,7 +21,7 @@ I am an enthusiastic person with great desire to learn new undertake new challen
 
 🍀[Simple Firebase Chat](https://github.com/viccoshe/chat-app)  | [CLICK TO DEPLOY](https://viccoshe.github.io/chat-app/)
  
-#HTML/CSS-only
+# HTML/CSS/JS-only
 
 🍀[One-page Website with Parallax "3D-Lense" Effect](https://github.com/viccoshe/parallax-effects-one-page) | [CLICK TO DEPLOY](https://viccoshe.github.io/parallax-effects-one-page/)  
   
