@@ -8,7 +8,7 @@ I am an enthusiastic person with great desire to learn new undertake new challen
  
   
 
-## My Projects
+# My Projects
 🍀[NETFLIX Clone Website](https://github.com/viccoshe/netflix-clone) | [CLICK TO DEPLOY](https://netflix-clone-b2f54.web.app/)
 
 🍀[Furniture Store ](https://github.com/viccoshe/Final-Project) *(Typescript, React, Firebase)* | [CLICK TO DEPLOY](https://wooden-furniture-d32f1.firebaseapp.com/)  
@@ -21,7 +21,7 @@ I am an enthusiastic person with great desire to learn new undertake new challen
 
 🍀[Simple Firebase Chat](https://github.com/viccoshe/chat-app)  | [CLICK TO DEPLOY](https://viccoshe.github.io/chat-app/)
  
-# HTML/CSS/JS-only
+### HTML/CSS/JS-only
 
 🍀[One-page Website with Parallax "3D-Lense" Effect](https://github.com/viccoshe/parallax-effects-one-page) | [CLICK TO DEPLOY](https://viccoshe.github.io/parallax-effects-one-page/)  
   
