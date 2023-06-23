@@ -9,9 +9,9 @@ I am an enthusiastic person with great desire to learn new undertake new challen
   
 
 # My Projects
-🍀[NETFLIX Clone Website](https://github.com/viccoshe/netflix-clone) | [CLICK TO DEPLOY](https://netflix-clone-b2f54.web.app/)
+🍀[NETFLIX Clone Website](https://github.com/viccoshe/netflix-clone) | [Click to deploy](https://netflix-clone-b2f54.web.app/)
 
-🍀[Furniture Store ](https://github.com/viccoshe/Final-Project) *(Typescript, React, Firebase)* | [CLICK TO DEPLOY](https://wooden-furniture-d32f1.firebaseapp.com/)  
+🍀[Furniture Store ](https://github.com/viccoshe/Final-Project) *(Typescript, React, Firebase)* | [Click to deploy](https://wooden-furniture-d32f1.firebaseapp.com/)  
   
 
 <!-- 🍀[Super Simple ToDo App](https://github.com/viccoshe/TodoList--Tabs) | [tap to deploy](https://viccoshe.github.io/TodoList--Tabs/)  
@@ -19,13 +19,13 @@ I am an enthusiastic person with great desire to learn new undertake new challen
 🍀[NETFLIX Clone Website](https://github.com/viccoshe/netflix-clone)
 🍀[Finance App](https://github.com/viccoshe/budget-app)  | [tap to deploy](https://budget-app-4a0ed.web.app/) -->
 
-🍀[Super Simple Firebase Chat](https://github.com/viccoshe/chat-app)  | [CLICK TO DEPLOY](https://viccoshe.github.io/chat-app/)
+🍀[Super Simple Firebase Chat](https://github.com/viccoshe/chat-app)  | [Click to deploy](https://viccoshe.github.io/chat-app/)
  
 ### HTML/CSS-only
 
-🍀[Parallax Scroll One-page Website](https://github.com/viccoshe/parallax-scroll-website) | [CLICK TO DEPLOY](https://viccoshe.github.io/parallax-scroll-website/)  
+🍀[Parallax Scroll One-page Website](https://github.com/viccoshe/parallax-scroll-website) | [Click to deploy](https://viccoshe.github.io/parallax-scroll-website/)  
 
-🍀[One-page Website with Parallax "3D-Lense" Effect](https://github.com/viccoshe/parallax-effects-one-page) | [CLICK TO DEPLOY](https://viccoshe.github.io/parallax-effects-one-page/)  
+🍀[One-page Website with Parallax "3D-Lense" Effect](https://github.com/viccoshe/parallax-effects-one-page) | [Click to deploy](https://viccoshe.github.io/parallax-effects-one-page/)  
   
 
 <!-- 🍀[Organic Food One-Page](https://github.com/viccoshe/Exam-project-HTML-CSS) | [tap to deploy](https://viccoshe.github.io/Exam-project-HTML-CSS/)  
