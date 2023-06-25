@@ -19,7 +19,7 @@ I am an enthusiastic person with great desire to learn new undertake new challen
 🍀[NETFLIX Clone Website](https://github.com/viccoshe/netflix-clone)
 🍀[Finance App](https://github.com/viccoshe/budget-app)  | [tap to deploy](https://budget-app-4a0ed.web.app/) -->
 
-🍀[Super Simple Firebase Chat](https://github.com/viccoshe/chat-app)  | [Click to deploy](https://viccoshe.github.io/chat-app/)
+<!--🍀[Super Simple Firebase Chat](https://github.com/viccoshe/chat-app)  | [Click to deploy](https://viccoshe.github.io/chat-app/) -->
  
 ### HTML/CSS-only
 
